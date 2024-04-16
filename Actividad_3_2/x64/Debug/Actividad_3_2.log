@@ -1,0 +1,4 @@
+﻿  Ejercicio2.cpp
+C:\Users\Aula 1\Desktop\Ejercicio_1\Actividad_3\Ejercicio2.cpp(66,33): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Aula 1\Desktop\Ejercicio_1\Actividad_3\Ejercicio2.cpp(75,33): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Actividad_3_2.vcxproj -> C:\Users\Aula 1\Desktop\Ejercicio_1\x64\Debug\Actividad_3_2.exe
